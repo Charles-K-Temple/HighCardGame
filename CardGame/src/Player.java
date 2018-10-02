@@ -2,7 +2,7 @@
 /*********************************************************************
  * 
  * @author:	 Charles Karstens
- * @title:	 Maxeta Submission
+ * @title:	 High Card Game
  * @general: Card Game: Player class
  * @date:	 March 7, 2018
  *

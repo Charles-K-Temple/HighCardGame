@@ -4,7 +4,7 @@ import java.util.*;
 /*********************************************************************
  * 
  * @author:	 Charles Karstens
- * @title:	 Maxeta Submission
+ * @title:	 High Card Game
  * @general: Card Game: Main
  * @date:	 March 7, 2018
  * 
@@ -17,7 +17,7 @@ public class CharlesKarstens_CardGame {
 
 	public static void main(String[] args) {
 		
-		System.out.println(" Welcome to the Maxeta Card Game...");
+		System.out.println(" Welcome to the High Card Game...");
 		Scanner reader = new Scanner(System.in); 
 		String numberPlayers = null;
 		
